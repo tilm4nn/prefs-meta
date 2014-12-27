@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE preferences SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<preferences>
+	<root type="user">
+		<map></map>
+		<node name="de">
+			<map></map>
+			<node name="tkuhn">
+				<map></map>
+				<node name="util">
+					<map></map>
+					<node name="prefs">
+						<map></map>
+						<node name="demo">
+							<map></map>
+							<node name="meta">
+								<map></map>
+								<node name="de">
+									<map></map>
+									<node name="tkuhn">
+										<map></map>
+										<node name="util">
+											<map></map>
+											<node name="prefs">
+												<map></map>
+												<node name="demo">
+													<map></map>
+													<node name="prefs">
+														<map>
+															<entry key="Version->TYPE" value="5" />
+															<entry key="Version->USER_EDIT" value="false" />
+															<entry key="WelcomeText->TYPE" value="1" />															<entry key="Version->TYPE" value="5" />
+															<entry key="WelcomeText->USER_EDIT" value="true" />
+														</map>
+														<node name="rdb">
+															<map>
+																<entry key="RdbDriver->TYPE" value="1" />
+																<entry key="RdbDriver->USER_EDIT" value="true" />
+																<entry key="RdbUrl->TYPE" value="1" />
+																<entry key="RdbUrl->USER_EDIT" value="true" />
+																<entry key="RdbUser->TYPE" value="1" />
+																<entry key="RdbUser->USER_EDIT" value="true" />
+																<entry key="RdbPass->TYPE" value="1" />
+																<entry key="RdbPass->USER_EDIT" value="true" />
+																<entry key="RdbMaxConnections->TYPE" value="2" />
+																<entry key="RdbMaxConnections->USER_EDIT" value="true" />
+																<entry key="RdbLocalConnectsOnly->TYPE" value="6" />
+																<entry key="RdbLocalConnectsOnly->USER_EDIT" value="true" />
+															</map>
+														</node>
+													</node>
+												</node>
+											</node>
+										</node>
+									</node>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+	</root>
+</preferences>

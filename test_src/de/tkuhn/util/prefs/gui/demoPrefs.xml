@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE preferences SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<preferences>
+	<root type="user">
+		<map></map>
+		<node name="de">
+			<map></map>
+			<node name="tkuhn">
+				<map></map>
+				<node name="util">
+					<map></map>
+					<node name="prefs">
+						<map></map>
+						<node name="demo">
+							<map></map>
+							<node name="prefs">
+								<map>
+									<entry key="Version" value="0.6" />
+									<entry key="WelcomeText" value="Welcome to the PrefsMeta demo application." />
+								</map>
+								<node name="rdb">
+									<map>
+										<entry key="RdbDriver" value="com.mysql.jdbc.Driver" />
+										<entry key="RdbUrl" value="jdbc:mysql://localhost/testdb" />
+										<entry key="RdbUser" value="" />
+										<entry key="RdbPass" value="" />
+										<entry key="RdbMaxConnections" value="10" />
+										<entry key="RdbLocalConnectsOnly" value="true" />
+									</map>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+	</root>
+</preferences>
