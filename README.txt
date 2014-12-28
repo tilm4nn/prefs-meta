@@ -38,7 +38,7 @@ Just put the jar file and the jars from the lib directory into your classpath.
 
 CHANGE HISTORY
 
-0.6.2 - Updated README, LICENSE
+0.6.2 - Updated README, LICENSE, SwingUtils
 0.6.1 - Fixed build script 
       - Fixed README
       - Fixed JavaDoc
