@@ -55,7 +55,10 @@ public class MappingMetaTableCellRenderer extends DefaultTableCellRenderer {
 
 	private String metaInfoKey;
 
-	/** Creates a new instance of KeyCellRenderer */
+	/** 
+	 * Creates a new instance of KeyCellRenderer
+	 * @param metaInfoKey the meta info key of the meta info to display
+	 */
 	public MappingMetaTableCellRenderer(String metaInfoKey) {
 		this.metaInfoKey = metaInfoKey;
 	}

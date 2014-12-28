@@ -52,7 +52,10 @@ public class MappingMetaTableCellEditor extends DefaultCellEditor {
 
 	private String metaInfoKey;
 
-	/** Creates a new instance of PrefCellEditor */
+	/**
+	 *  Creates a new instance of PrefCellEditor
+	 *  @param metaInfoKey the meta info key of the meta info to edit
+	 */
 	public MappingMetaTableCellEditor(String metaInfoKey) {
 		super(new JTextField());
 		this.metaInfoKey = metaInfoKey;

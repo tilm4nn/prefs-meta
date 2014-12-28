@@ -1,24 +1,25 @@
-                   README: PrefsMeta 0.6 Release
-                   -----------------------------
-                            August 2003
-
-
+PrefsMeta Java API
+------------------
+                   
 Contents:
 
-* Installation notes
+* Purpose
 * Target audience
+* Installation notes
 * Changes since the 0.6 release
 * Contents of the release
 * How to get started
 * How to build
 * How to reach me 
 * Limitations and bugs
-* Copyright
+* The MIT license
 
 
-INSTALLATION NOTES
+PURPOSE
 
-Just put the jar file and the jars from the lib directory into your classpath.
+PrefsMeta is a Java API that enriches the standard Java Preferences API to
+store meta data about the preferences. This meta data can be used to
+dynamically generate Swing GUIs to edit these preferences for example.
 
 
 
@@ -28,16 +29,25 @@ Java developers that want to provide a GUI to edit Java Preferences.
 
 
 
-CHANGES SINCE THE 0.6 RELEASE
+INSTALLATION NOTES
+
+Just put the jar file and the jars from the lib directory into your classpath.
+
+
+
+CHANGES THROUGH THE RELEASE
 
 0.6   - The first release
+0.6.1 - Fixed build script 
+      - Fixed README
+      - Fixed JavaDoc
 
 
 
 CONTENTS OF THE RELEASE
 
 README.txt         this file
-LICENSE.txt        license of SwingUtils
+LICENSE.txt        license of PrefsMeta
 build.xml          ant build script
 
 docs/              contains documentation about PrefsMeta
@@ -80,12 +90,11 @@ Please report your experiences to prefsmeta@tkuhn.de
 
 
 
-
 THE MIT LICENSE
 
-Copyright (C) 2003 
-Tilmann Kuhn           Gildestr. 34
-http://www.tkuhn.de    76149 Karlsruhe
+Copyright (C) 2014 
+Tilmann Kuhn           Ginnheimer Str. 33
+http://www.tkuhn.de    60487 Frankfurt am Main
 prefsmeta@tkuhn.de     Germany
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

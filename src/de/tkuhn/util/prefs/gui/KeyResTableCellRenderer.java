@@ -53,7 +53,11 @@ public class KeyResTableCellRenderer extends DefaultTableCellRenderer {
 
 	boolean useResNames;
 
-	/** Creates a new instance of KeyCellRenderer */
+	/** 
+	 * Creates a new instance of KeyCellRenderer
+	 * @param useResNames set to {@code true} if only the resource
+	 * names should be rendered
+	 */
 	public KeyResTableCellRenderer(boolean useResNames) {
 		this.useResNames = useResNames;
 	}

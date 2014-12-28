@@ -95,6 +95,9 @@ public class MetaPrefTableModel extends BasicPrefTableModel implements
 	 *            deletion of Mappings is allowed
 	 * @param allowNew
 	 *            creation of new mappings is allowed
+	 * @param useResNames
+	 *            set to {@code true} if only the resource
+	 * names should be rendered as captions
 	 */
 	public MetaPrefTableModel(Preferences prefs, boolean allowDelete,
 			boolean allowNew, boolean useResNames) {

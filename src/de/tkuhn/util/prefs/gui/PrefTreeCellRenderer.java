@@ -57,7 +57,10 @@ public class PrefTreeCellRenderer extends DefaultTreeCellRenderer implements
 	/** Use Resource names for nodes */
 	private boolean useResNames = true;
 
-	/** Creates a new instance of PrefsTreeCellRenderer */
+	/** Creates a new instance of PrefsTreeCellRenderer
+	 * @param useResNames
+	 * 	          set to {@code true} if only the resource
+	 * names should be rendered */
 	public PrefTreeCellRenderer(boolean useResNames) {
 		this.useResNames = useResNames;
 	}

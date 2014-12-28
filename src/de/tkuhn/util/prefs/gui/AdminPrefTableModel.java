@@ -81,6 +81,9 @@ public class AdminPrefTableModel extends MetaPrefTableModel implements
 	 *            the preferences this TableModel will reflect.
 	 * @param allowNew
 	 *            creation of new Mappings is allowed
+	 * @param useResNames
+	 * 	          set to {@code true} if only the resource
+	 * names should be rendered as captions
 	 */
 	public AdminPrefTableModel(Preferences prefs, boolean allowNew,
 			boolean useResNames) {
