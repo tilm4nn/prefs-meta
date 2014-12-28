@@ -1,18 +1,19 @@
 PrefsMeta Java API
 ------------------
-                   
-Contents:
+Copyright (C) 2014 Tilmann Kuhn
+See LICENSE.txt for details of the MIT license.
+
+Contents of this readme:
 
 * Purpose
 * Target audience
 * Installation notes
-* Changes since the 0.6 release
+* Change history
 * Contents of the release
 * How to get started
 * How to build
-* How to reach me 
+* How to contact me 
 * Limitations and bugs
-* The MIT license
 
 
 PURPOSE
@@ -35,12 +36,13 @@ Just put the jar file and the jars from the lib directory into your classpath.
 
 
 
-CHANGES THROUGH THE RELEASE
+CHANGE HISTORY
 
-0.6   - The first release
+0.6.2 - Updated README, LICENSE
 0.6.1 - Fixed build script 
       - Fixed README
       - Fixed JavaDoc
+0.6   - The first release
 
 
 
@@ -72,9 +74,8 @@ is also included.
 
 
 
-HOW TO REACH ME
+HOW TO CONTACT ME
 
-The e.ways to reach me:
 http://www.tkuhn.de
 prefsmeta@tkuhn.de
 
@@ -86,31 +87,4 @@ LIMITATIONS AND BUGS
   o Deletion of Preferences
   o Additon and deletion of Preferences Nodes
 
-Please report your experiences to prefsmeta@tkuhn.de
-
-
-
-THE MIT LICENSE
-
-Copyright (C) 2014 
-Tilmann Kuhn           Ginnheimer Str. 33
-http://www.tkuhn.de    60487 Frankfurt am Main
-prefsmeta@tkuhn.de     Germany
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+Please report your experiences to me.
