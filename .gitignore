@@ -2,3 +2,5 @@
 /build
 /archiv
 /docs
+/*.zip
+/complete_dist
