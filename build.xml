@@ -84,7 +84,7 @@
 -->
 
   <property name="app.name"        value="PrefsMeta"/>
-  <property name="app.version"     value="0.6.1"/>
+  <property name="app.version"     value="0.6.2"/>
   <property name="app.author"      value="Tilmann Kuhn"/>
   <property name="app.dist.name"   value="${app.name}-${app.version}"/>
   
